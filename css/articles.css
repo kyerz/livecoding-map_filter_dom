@@ -133,9 +133,7 @@ transition : .3s;
 footer span {
 
 font-size : 22px;
-color :
-#373737
-;
+color :#373737;
 
 }
 
@@ -149,9 +147,7 @@ text-decoration: none;
 
 font-family: FontAwesome;
 content: '\f099';
-color :
-#2DDCFF
-;
+color :#2DDCFF;
 
 
 }
@@ -160,9 +156,7 @@ color :
 
 font-family: FontAwesome;
 content: '\f16d';
-background: -webkit-linear-gradient(#833ab4,
-#FD1D1D
-,#fcb045);
+background: -webkit-linear-gradient(#833ab4, #FD1D1D,#fcb045);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 
@@ -172,9 +166,7 @@ background: -webkit-linear-gradient(#833ab4,
 
 font-family: FontAwesome;
 content: '\f09a';
-color :
-#3B5998
-;
+color : #3B5998;
 
 }
 
@@ -182,9 +174,7 @@ color :
 
 font-family: FontAwesome;
 content: '\f0d2';
-color :
-#CB2027
-;
+color : #CB2027;
 
 }
 
@@ -192,9 +182,7 @@ color :
 
 font-family: FontAwesome;
 content: '\f16e';
-color :
-#DA2E87
-;
+color : #DA2E87;
 
 }
 
