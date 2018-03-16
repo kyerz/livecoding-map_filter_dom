@@ -1,0 +1,51 @@
+h1 {
+	font-size: 80px;
+	text-align: center;
+	font-family: 'Cormorant Garamond', sans-serif;
+}
+
+.Hugo {
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Cormorant Garamond', sans-serif;
+}
+
+
+.thumbnail {
+	border: 0;
+	background-color: transparent;
+}
+
+.row img {
+	position: relative;
+	width: 350px;
+	height: 250px;
+	transition: .3s;
+}
+
+img:hover {
+	opacity: 0.5;
+}
+
+.legende {
+	opacity: 0.6;
+	position: absolute;
+	top: 80%;
+	left: 50%;
+	width: 70%;
+	padding: 5px;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	background-color: black;
+	font-size: 14px;
+	text-align: center; color: white;
+	border-radius: 5px;
+}
+
+
+
+
+
+
+
+
