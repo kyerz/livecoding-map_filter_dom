@@ -68,11 +68,9 @@ const createImgDiv = img => {
 }
 
 const imagesContainer = document.getElementById('images')
-
-const generatedImages = images.map(createImgDiv).join("")
-
-imagesContainer.innerHTML = generatedImages.join("")
-
+imagesContainer.innerHTML = images
+  .map(createImgDiv)
+  .join("")
 
 const selectCategory = event => {
   const catName = event.target.textContent.toLowerCase()
